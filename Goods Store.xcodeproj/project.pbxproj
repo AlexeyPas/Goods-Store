@@ -7,15 +7,40 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		555686F225A0AC79009F4D41 /* FinelAnswers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555686F125A0AC79009F4D41 /* FinelAnswers.swift */; };
+		5556877A25AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.17.10.png in Resources */ = {isa = PBXBuildFile; fileRef = 5556877225AF7131009F4D41 /* Снимок экрана 2021-01-13 в 21.17.10.png */; };
+		5556877B25AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.17.03.png in Resources */ = {isa = PBXBuildFile; fileRef = 5556877325AF7131009F4D41 /* Снимок экрана 2021-01-13 в 21.17.03.png */; };
+		5556877C25AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.17.40.png in Resources */ = {isa = PBXBuildFile; fileRef = 5556877425AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.17.40.png */; };
+		5556877D25AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.17.14.png in Resources */ = {isa = PBXBuildFile; fileRef = 5556877525AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.17.14.png */; };
+		5556877E25AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.17.45.png in Resources */ = {isa = PBXBuildFile; fileRef = 5556877625AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.17.45.png */; };
+		5556877F25AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.16.59.png in Resources */ = {isa = PBXBuildFile; fileRef = 5556877725AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.16.59.png */; };
+		5556878025AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.18.05.png in Resources */ = {isa = PBXBuildFile; fileRef = 5556877825AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.18.05.png */; };
+		5556878125AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.17.54.png in Resources */ = {isa = PBXBuildFile; fileRef = 5556877925AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.17.54.png */; };
+		5564BE3C2576581400F865B7 /* ModelType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5564BE3B2576581400F865B7 /* ModelType.swift */; };
 		557F6EE72575037100E6A6E6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 557F6EE62575037100E6A6E6 /* AppDelegate.swift */; };
 		557F6EE92575037100E6A6E6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 557F6EE82575037100E6A6E6 /* SceneDelegate.swift */; };
 		557F6EEB2575037100E6A6E6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 557F6EEA2575037100E6A6E6 /* ViewController.swift */; };
 		557F6EEE2575037100E6A6E6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 557F6EEC2575037100E6A6E6 /* Main.storyboard */; };
 		557F6EF02575037600E6A6E6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 557F6EEF2575037600E6A6E6 /* Assets.xcassets */; };
 		557F6EF32575037600E6A6E6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 557F6EF12575037600E6A6E6 /* LaunchScreen.storyboard */; };
+		557F6F022575061F00E6A6E6 /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 557F6F012575061F00E6A6E6 /* QuestionViewController.swift */; };
+		557F6F052575115D00E6A6E6 /* ResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 557F6F042575115D00E6A6E6 /* ResultsViewController.swift */; };
+		557F6F08257511A100E6A6E6 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 557F6F07257511A100E6A6E6 /* Question.swift */; };
+		557F6F0B257511CF00E6A6E6 /* ResponseType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 557F6F0A257511CF00E6A6E6 /* ResponseType.swift */; };
+		557F6F0E257511E000E6A6E6 /* Answer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 557F6F0D257511E000E6A6E6 /* Answer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		555686F125A0AC79009F4D41 /* FinelAnswers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinelAnswers.swift; sourceTree = "<group>"; };
+		5556877225AF7131009F4D41 /* Снимок экрана 2021-01-13 в 21.17.10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-01-13 в 21.17.10.png"; sourceTree = "<group>"; };
+		5556877325AF7131009F4D41 /* Снимок экрана 2021-01-13 в 21.17.03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-01-13 в 21.17.03.png"; sourceTree = "<group>"; };
+		5556877425AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.17.40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-01-13 в 21.17.40.png"; sourceTree = "<group>"; };
+		5556877525AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.17.14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-01-13 в 21.17.14.png"; sourceTree = "<group>"; };
+		5556877625AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.17.45.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-01-13 в 21.17.45.png"; sourceTree = "<group>"; };
+		5556877725AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.16.59.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-01-13 в 21.16.59.png"; sourceTree = "<group>"; };
+		5556877825AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.18.05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-01-13 в 21.18.05.png"; sourceTree = "<group>"; };
+		5556877925AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.17.54.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-01-13 в 21.17.54.png"; sourceTree = "<group>"; };
+		5564BE3B2576581400F865B7 /* ModelType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelType.swift; sourceTree = "<group>"; };
 		557F6EE32575037100E6A6E6 /* Goods Store.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Goods Store.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		557F6EE62575037100E6A6E6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		557F6EE82575037100E6A6E6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +49,11 @@
 		557F6EEF2575037600E6A6E6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		557F6EF22575037600E6A6E6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		557F6EF42575037600E6A6E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		557F6F012575061F00E6A6E6 /* QuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionViewController.swift; sourceTree = "<group>"; };
+		557F6F042575115D00E6A6E6 /* ResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsViewController.swift; sourceTree = "<group>"; };
+		557F6F07257511A100E6A6E6 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
+		557F6F0A257511CF00E6A6E6 /* ResponseType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResponseType.swift; sourceTree = "<group>"; };
+		557F6F0D257511E000E6A6E6 /* Answer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Answer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +67,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5556877025AF7054009F4D41 /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				5556877725AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.16.59.png */,
+				5556877325AF7131009F4D41 /* Снимок экрана 2021-01-13 в 21.17.03.png */,
+				5556877225AF7131009F4D41 /* Снимок экрана 2021-01-13 в 21.17.10.png */,
+				5556877525AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.17.14.png */,
+				5556877425AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.17.40.png */,
+				5556877625AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.17.45.png */,
+				5556877925AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.17.54.png */,
+				5556877825AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.18.05.png */,
+			);
+			path = Screenshots;
+			sourceTree = "<group>";
+		};
 		557F6EDA2575037100E6A6E6 = {
 			isa = PBXGroup;
 			children = (
@@ -56,15 +101,55 @@
 		557F6EE52575037100E6A6E6 /* Goods Store */ = {
 			isa = PBXGroup;
 			children = (
-				557F6EE62575037100E6A6E6 /* AppDelegate.swift */,
-				557F6EE82575037100E6A6E6 /* SceneDelegate.swift */,
-				557F6EEA2575037100E6A6E6 /* ViewController.swift */,
-				557F6EEC2575037100E6A6E6 /* Main.storyboard */,
-				557F6EEF2575037600E6A6E6 /* Assets.xcassets */,
-				557F6EF12575037600E6A6E6 /* LaunchScreen.storyboard */,
-				557F6EF42575037600E6A6E6 /* Info.plist */,
+				5556877025AF7054009F4D41 /* Screenshots */,
+				557F6EFD257503B700E6A6E6 /* App */,
+				557F6EFF257503C300E6A6E6 /* Models */,
+				557F6EFB2575039300E6A6E6 /* View */,
+				557F6EFC257503A000E6A6E6 /* View Controllers */,
 			);
 			path = "Goods Store";
+			sourceTree = "<group>";
+		};
+		557F6EFB2575039300E6A6E6 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				557F6EEC2575037100E6A6E6 /* Main.storyboard */,
+				557F6EF12575037600E6A6E6 /* LaunchScreen.storyboard */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		557F6EFC257503A000E6A6E6 /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				557F6EEA2575037100E6A6E6 /* ViewController.swift */,
+				557F6F012575061F00E6A6E6 /* QuestionViewController.swift */,
+				557F6F042575115D00E6A6E6 /* ResultsViewController.swift */,
+			);
+			path = "View Controllers";
+			sourceTree = "<group>";
+		};
+		557F6EFD257503B700E6A6E6 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				557F6EE62575037100E6A6E6 /* AppDelegate.swift */,
+				557F6EE82575037100E6A6E6 /* SceneDelegate.swift */,
+				557F6EEF2575037600E6A6E6 /* Assets.xcassets */,
+				557F6EF42575037600E6A6E6 /* Info.plist */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		557F6EFF257503C300E6A6E6 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				557F6F07257511A100E6A6E6 /* Question.swift */,
+				557F6F0A257511CF00E6A6E6 /* ResponseType.swift */,
+				557F6F0D257511E000E6A6E6 /* Answer.swift */,
+				5564BE3B2576581400F865B7 /* ModelType.swift */,
+				555686F125A0AC79009F4D41 /* FinelAnswers.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,7 +210,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				557F6EF32575037600E6A6E6 /* LaunchScreen.storyboard in Resources */,
+				5556878125AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.17.54.png in Resources */,
+				5556877F25AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.16.59.png in Resources */,
+				5556877C25AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.17.40.png in Resources */,
 				557F6EF02575037600E6A6E6 /* Assets.xcassets in Resources */,
+				5556877B25AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.17.03.png in Resources */,
+				5556878025AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.18.05.png in Resources */,
+				5556877D25AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.17.14.png in Resources */,
+				5556877A25AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.17.10.png in Resources */,
+				5556877E25AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.17.45.png in Resources */,
 				557F6EEE2575037100E6A6E6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,9 +230,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				555686F225A0AC79009F4D41 /* FinelAnswers.swift in Sources */,
 				557F6EEB2575037100E6A6E6 /* ViewController.swift in Sources */,
 				557F6EE72575037100E6A6E6 /* AppDelegate.swift in Sources */,
+				557F6F022575061F00E6A6E6 /* QuestionViewController.swift in Sources */,
+				557F6F08257511A100E6A6E6 /* Question.swift in Sources */,
+				557F6F052575115D00E6A6E6 /* ResultsViewController.swift in Sources */,
 				557F6EE92575037100E6A6E6 /* SceneDelegate.swift in Sources */,
+				557F6F0B257511CF00E6A6E6 /* ResponseType.swift in Sources */,
+				5564BE3C2576581400F865B7 /* ModelType.swift in Sources */,
+				557F6F0E257511E000E6A6E6 /* Answer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -288,7 +388,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = R8P92U4Z6U;
-				INFOPLIST_FILE = "Goods Store/Info.plist";
+				INFOPLIST_FILE = "Goods Store/App/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -307,7 +407,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = R8P92U4Z6U;
-				INFOPLIST_FILE = "Goods Store/Info.plist";
+				INFOPLIST_FILE = "Goods Store/App/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
