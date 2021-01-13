@@ -8,14 +8,14 @@
 
 /* Begin PBXBuildFile section */
 		555686F225A0AC79009F4D41 /* FinelAnswers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555686F125A0AC79009F4D41 /* FinelAnswers.swift */; };
-		5556877A25AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.17.10.png in Resources */ = {isa = PBXBuildFile; fileRef = 5556877225AF7131009F4D41 /* Снимок экрана 2021-01-13 в 21.17.10.png */; };
-		5556877B25AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.17.03.png in Resources */ = {isa = PBXBuildFile; fileRef = 5556877325AF7131009F4D41 /* Снимок экрана 2021-01-13 в 21.17.03.png */; };
-		5556877C25AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.17.40.png in Resources */ = {isa = PBXBuildFile; fileRef = 5556877425AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.17.40.png */; };
-		5556877D25AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.17.14.png in Resources */ = {isa = PBXBuildFile; fileRef = 5556877525AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.17.14.png */; };
-		5556877E25AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.17.45.png in Resources */ = {isa = PBXBuildFile; fileRef = 5556877625AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.17.45.png */; };
-		5556877F25AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.16.59.png in Resources */ = {isa = PBXBuildFile; fileRef = 5556877725AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.16.59.png */; };
-		5556878025AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.18.05.png in Resources */ = {isa = PBXBuildFile; fileRef = 5556877825AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.18.05.png */; };
-		5556878125AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.17.54.png in Resources */ = {isa = PBXBuildFile; fileRef = 5556877925AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.17.54.png */; };
+		5556877A25AF7134009F4D41 /* Screenshot3.png in Resources */ = {isa = PBXBuildFile; fileRef = 5556877225AF7131009F4D41 /* Screenshot3.png */; };
+		5556877B25AF7134009F4D41 /* Screenshot2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5556877325AF7131009F4D41 /* Screenshot2.png */; };
+		5556877C25AF7134009F4D41 /* Screenshot5.png in Resources */ = {isa = PBXBuildFile; fileRef = 5556877425AF7132009F4D41 /* Screenshot5.png */; };
+		5556877D25AF7134009F4D41 /* Screenshot4.png in Resources */ = {isa = PBXBuildFile; fileRef = 5556877525AF7132009F4D41 /* Screenshot4.png */; };
+		5556877E25AF7134009F4D41 /* Screenshot6.png in Resources */ = {isa = PBXBuildFile; fileRef = 5556877625AF7132009F4D41 /* Screenshot6.png */; };
+		5556877F25AF7134009F4D41 /* Screenshot1.png in Resources */ = {isa = PBXBuildFile; fileRef = 5556877725AF7132009F4D41 /* Screenshot1.png */; };
+		5556878025AF7134009F4D41 /* Screenshot8.png in Resources */ = {isa = PBXBuildFile; fileRef = 5556877825AF7132009F4D41 /* Screenshot8.png */; };
+		5556878125AF7134009F4D41 /* Screenshot7.png in Resources */ = {isa = PBXBuildFile; fileRef = 5556877925AF7132009F4D41 /* Screenshot7.png */; };
 		5564BE3C2576581400F865B7 /* ModelType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5564BE3B2576581400F865B7 /* ModelType.swift */; };
 		557F6EE72575037100E6A6E6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 557F6EE62575037100E6A6E6 /* AppDelegate.swift */; };
 		557F6EE92575037100E6A6E6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 557F6EE82575037100E6A6E6 /* SceneDelegate.swift */; };
@@ -32,14 +32,14 @@
 
 /* Begin PBXFileReference section */
 		555686F125A0AC79009F4D41 /* FinelAnswers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinelAnswers.swift; sourceTree = "<group>"; };
-		5556877225AF7131009F4D41 /* Снимок экрана 2021-01-13 в 21.17.10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-01-13 в 21.17.10.png"; sourceTree = "<group>"; };
-		5556877325AF7131009F4D41 /* Снимок экрана 2021-01-13 в 21.17.03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-01-13 в 21.17.03.png"; sourceTree = "<group>"; };
-		5556877425AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.17.40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-01-13 в 21.17.40.png"; sourceTree = "<group>"; };
-		5556877525AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.17.14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-01-13 в 21.17.14.png"; sourceTree = "<group>"; };
-		5556877625AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.17.45.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-01-13 в 21.17.45.png"; sourceTree = "<group>"; };
-		5556877725AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.16.59.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-01-13 в 21.16.59.png"; sourceTree = "<group>"; };
-		5556877825AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.18.05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-01-13 в 21.18.05.png"; sourceTree = "<group>"; };
-		5556877925AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.17.54.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-01-13 в 21.17.54.png"; sourceTree = "<group>"; };
+		5556877225AF7131009F4D41 /* Screenshot3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot3.png; sourceTree = "<group>"; };
+		5556877325AF7131009F4D41 /* Screenshot2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot2.png; sourceTree = "<group>"; };
+		5556877425AF7132009F4D41 /* Screenshot5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot5.png; sourceTree = "<group>"; };
+		5556877525AF7132009F4D41 /* Screenshot4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot4.png; sourceTree = "<group>"; };
+		5556877625AF7132009F4D41 /* Screenshot6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot6.png; sourceTree = "<group>"; };
+		5556877725AF7132009F4D41 /* Screenshot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot1.png; sourceTree = "<group>"; };
+		5556877825AF7132009F4D41 /* Screenshot8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot8.png; sourceTree = "<group>"; };
+		5556877925AF7132009F4D41 /* Screenshot7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot7.png; sourceTree = "<group>"; };
 		5564BE3B2576581400F865B7 /* ModelType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelType.swift; sourceTree = "<group>"; };
 		557F6EE32575037100E6A6E6 /* Goods Store.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Goods Store.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		557F6EE62575037100E6A6E6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -70,14 +70,14 @@
 		5556877025AF7054009F4D41 /* Screenshots */ = {
 			isa = PBXGroup;
 			children = (
-				5556877725AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.16.59.png */,
-				5556877325AF7131009F4D41 /* Снимок экрана 2021-01-13 в 21.17.03.png */,
-				5556877225AF7131009F4D41 /* Снимок экрана 2021-01-13 в 21.17.10.png */,
-				5556877525AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.17.14.png */,
-				5556877425AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.17.40.png */,
-				5556877625AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.17.45.png */,
-				5556877925AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.17.54.png */,
-				5556877825AF7132009F4D41 /* Снимок экрана 2021-01-13 в 21.18.05.png */,
+				5556877725AF7132009F4D41 /* Screenshot1.png */,
+				5556877325AF7131009F4D41 /* Screenshot2.png */,
+				5556877225AF7131009F4D41 /* Screenshot3.png */,
+				5556877525AF7132009F4D41 /* Screenshot4.png */,
+				5556877425AF7132009F4D41 /* Screenshot5.png */,
+				5556877625AF7132009F4D41 /* Screenshot6.png */,
+				5556877925AF7132009F4D41 /* Screenshot7.png */,
+				5556877825AF7132009F4D41 /* Screenshot8.png */,
 			);
 			path = Screenshots;
 			sourceTree = "<group>";
@@ -210,15 +210,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				557F6EF32575037600E6A6E6 /* LaunchScreen.storyboard in Resources */,
-				5556878125AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.17.54.png in Resources */,
-				5556877F25AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.16.59.png in Resources */,
-				5556877C25AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.17.40.png in Resources */,
+				5556878125AF7134009F4D41 /* Screenshot7.png in Resources */,
+				5556877F25AF7134009F4D41 /* Screenshot1.png in Resources */,
+				5556877C25AF7134009F4D41 /* Screenshot5.png in Resources */,
 				557F6EF02575037600E6A6E6 /* Assets.xcassets in Resources */,
-				5556877B25AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.17.03.png in Resources */,
-				5556878025AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.18.05.png in Resources */,
-				5556877D25AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.17.14.png in Resources */,
-				5556877A25AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.17.10.png in Resources */,
-				5556877E25AF7134009F4D41 /* Снимок экрана 2021-01-13 в 21.17.45.png in Resources */,
+				5556877B25AF7134009F4D41 /* Screenshot2.png in Resources */,
+				5556878025AF7134009F4D41 /* Screenshot8.png in Resources */,
+				5556877D25AF7134009F4D41 /* Screenshot4.png in Resources */,
+				5556877A25AF7134009F4D41 /* Screenshot3.png in Resources */,
+				5556877E25AF7134009F4D41 /* Screenshot6.png in Resources */,
 				557F6EEE2575037100E6A6E6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
